@@ -6,3 +6,7 @@
 	path = causalDT
 	url = https://github.com/tiffanymtang/causaldt
 	subdir = causalDT
+[submodule "nerfplus"]
+	path = nerfplus
+	url = https://github.com/tiffanymtang/nerfplus
+	subdir = nerfplus
